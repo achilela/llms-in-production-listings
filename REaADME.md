@@ -1,6 +1,6 @@
-# LLM Deployment Guide
+## LLM Deployment Guide
 
-A comprehensive guide for deploying Large Language Models (LLMs) to production environments.
+A comprehensive approach to design from ground-up and deploying Large Language Models (LLMs) to production environments.
 
 ## Contents
 
@@ -18,18 +18,18 @@ A comprehensive guide for deploying Large Language Models (LLMs) to production e
 ## Getting Started
 
 ```bash
-git clone https://github.com/ValonyLabzs/llm-deployment-guide.git
+git clone https://github.com/achilela/llms-in-production-listings.git
 cd llm-deployment-guide
 ```
 
 ## Who We Are
 
-This guide is developed by ValonyLabzs, an AI-based engineering company specializing in cutting-edge AI solutions and deployments.
+This guide is being developed by ValonyLabzs, an AI-based engineering company specializing in cutting-edge AI solutions and deployments in the fields of Computer Vision and Large Language Models.
 
 Contact:
 - Website: https://www.valonylabzs.dev
 - Email: info@valonylabzs.dev
-- Address: 123 AI Plaza, Tech Valley, CA 94000, USA
+- Address: Estrada de Catete, Ponte Partida, Viana-Luanda 210000, ANGOLA
 
 ## Contribute
 
